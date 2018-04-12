@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="notification_grid_cols">2</integer>
+    <integer name="registered_child_main_pager_padding_left">30</integer>
+    <integer name="registered_child_main_pager_padding_right">10</integer>
+    <integer name="registered_child_mini_pager_padding">80</integer>
+</resources>

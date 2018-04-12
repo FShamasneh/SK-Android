@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="notification_grid_cols">2</integer>
+    <integer name="registered_child_main_pager_padding_left">120</integer>
+    <integer name="registered_child_main_pager_padding_right">60</integer>
+    <integer name="registered_device_sensor_pager_padding_left">250</integer>
+    <integer name="registered_device_sensor_pager_padding_right">150</integer>
+    <integer name="registered_child_mini_pager_padding_left">400</integer>
+    <integer name="registered_child_mini_pager_padding_right">200</integer>
+    <integer name="registered_child_mini_pager_padding">600</integer>
+</resources>

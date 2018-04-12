@@ -1,0 +1,133 @@
+<resources>
+    <!-- Example customization of dimensions originally defined in com.firas.android.collection.valueslues/dimens.xml
+         (such as screen margins) for screens with more than 820dp of available width. This
+         would include 7" and 10" devices in landscape (~960dp and ~1280dp respectively). -->
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="activity_vertical_margin">24dp</dimen>
+    <dimen name="dimen_1">2dp</dimen>
+    <dimen name="dimen_2">3dp</dimen>
+    <dimen name="dimen_3">4dp</dimen>
+    <dimen name="dimen_4">6dp</dimen>
+    <dimen name="dimen_8">12dp</dimen>
+    <dimen name="dimen_12">18dp</dimen>
+    <dimen name="dimen_16">24dp</dimen>
+    <dimen name="dimen_18">27dp</dimen>
+    <dimen name="dimen_20">30dp</dimen>
+    <dimen name="dimen_24">36dp</dimen>
+    <dimen name="dimen_32">48dp</dimen>
+    <dimen name="dimen_35">50dp</dimen>
+    <dimen name="dimen_36">54dp</dimen>
+    <dimen name="dimen_38">58dp</dimen>
+    <dimen name="dimen_40">60dp</dimen>
+    <dimen name="dimen_48">72dp</dimen>
+    <dimen name="dimen_52">80dp</dimen>
+    <dimen name="dimen_56">84dp</dimen>
+    <dimen name="dimen_64">96dp</dimen>
+    <dimen name="dimen_72">128dp</dimen>
+    <dimen name="dimen_80">130dp</dimen>
+    <dimen name="dimen_90">138dp</dimen>
+    <dimen name="dimen_96">144dp</dimen>
+    <dimen name="dimen_100">180dp</dimen>
+    <dimen name="dimen_112">156dp</dimen>
+    <dimen name="dimen_118">162dp</dimen>
+    <dimen name="dimen_128">172dp</dimen>
+    <dimen name="dimen_130">190dp</dimen>
+    <dimen name="dimen_158">222dp</dimen>
+    <dimen name="dimen_162">230dp</dimen>
+    <dimen name="dimen_166">250dp</dimen>
+    <dimen name="dimen_192">268dp</dimen>
+    <dimen name="dimen_256">384dp</dimen>
+    <dimen name="dimen_512">768dp</dimen>
+
+    <dimen name="font_smaller">12sp</dimen>
+    <dimen name="font_small">14sp</dimen>
+    <dimen name="font_normal">16sp</dimen>
+    <dimen name="font_normal_big">18sp</dimen>
+    <dimen name="font_big">20sp</dimen>
+    <dimen name="font_bigger">24sp</dimen>
+    <dimen name="font_biggest">28sp</dimen>
+    <dimen name="font_large">32sp</dimen>
+    <dimen name="font_larger">36sp</dimen>
+
+    <dimen name="font_subtitle">16sp</dimen>
+    <dimen name="font_navigator_menu">16sp</dimen>
+
+    <dimen name="text_size_m">30sp</dimen>
+    <dimen name="text_size_s">24sp</dimen>
+    <dimen name="button_height">64dp</dimen>
+
+    <dimen name="nav_header_height">160dp</dimen>
+    <dimen name="nav_header_margin">16dp</dimen>
+    <dimen name="nav_header_photo_size">72dp</dimen>
+    <dimen name="nav_header_name_font">16sp</dimen>
+    <dimen name="nav_header_email_font">14sp</dimen>
+    <dimen name="fab_margin">32dp</dimen>
+    <dimen name="tab_size">40dp</dimen>
+    <dimen name="auto_scroll_left">80dp</dimen>
+    <dimen name="auto_scroll_right">20dp</dimen>
+    <dimen name="autoscroll_container_top">90dp</dimen>
+    <dimen name="autoscroll_container_bottom">50dp</dimen>
+    <dimen name="autoscroll_button_top">-100dp</dimen>
+    <dimen name="news_count_top">4dp</dimen>
+    <dimen name="toolbar_logo_height">400dp</dimen>
+    <dimen name="toolbar_logo_margin">200dp</dimen>
+    <dimen name="toolbar_item_margin">20dp</dimen>
+    <dimen name="toolbar_item_margin_top">10dp</dimen>
+    <dimen name="toolbar_item_margin_side">20dp</dimen>
+    <dimen name="toolbar_item_size">50dp</dimen>
+    <dimen name="dashboard_space">140dp</dimen>
+    <dimen name="dashboard_grid_margin_top">70dp</dimen>
+    <dimen name="dashboard_bar_height">120dp</dimen>
+    <dimen name="dashboard_bar_logo_edge">180dp</dimen>
+    <dimen name="toolbar_news_count_top">5dp</dimen>
+    <dimen name="toolbar_news_count_left">-25dp</dimen>
+    <dimen name="child_device_pager_image_size">200dp</dimen>
+    <dimen name="med_card_pager_image_top">0dp</dimen>
+    <dimen name="save_button_width">270dp</dimen>
+    <dimen name="save_button_height">80dp</dimen>
+    <dimen name="new_child_picture_size">200dp</dimen>
+    <dimen name="new_child_empty_picture_size">250dp</dimen>
+    <dimen name="edit_pen_size">70dp</dimen>
+    <dimen name="edit_pen_bg_size">30dp</dimen>
+    <dimen name="image_empty_margin_bottom">-180dp</dimen>
+    <dimen name="image_margin_bottom">-150dp</dimen>
+    <dimen name="new_child_margin_top">2dp</dimen>
+    <dimen name="new_child_name_margin_top">150dp</dimen>
+    <dimen name="save_button_margin_top">-100dp</dimen>
+    <dimen name="new_child_margin_bottom">0dp</dimen>
+    <dimen name="new_child_padding_bottom">80dp</dimen>
+    <dimen name="new_child_expend_view_height">200dp</dimen>
+    <dimen name="device_list_height">70dp</dimen>
+    <dimen name="chart_date_selection_margin">70dp</dimen>
+    <dimen name="calendar_icon_size">50dp</dimen>
+    <dimen name="chart_date_selection_text_size">28dp</dimen>
+    <dimen name="calendar_icon_margin_left">30dp</dimen>
+    <dimen name="charts_container_margin">30dp</dimen>
+    <dimen name="new_child_container_margin_left">40dp</dimen>
+    <dimen name="new_child_container_margin_right">40dp</dimen>
+    <dimen name="device_list_icon_size">70dp</dimen>
+    <dimen name="device_list_switcher_size">60dp</dimen>
+    <dimen name="device_list_text_size">24dp</dimen>
+    <dimen name="device_list_padding_left">20dp</dimen>
+    <dimen name="device_list_padding_right">30dp</dimen>
+    <dimen name="device_list_margin_left">-20dp</dimen>
+    <dimen name="device_list_margin_right">-30dp</dimen>
+    <dimen name="device_list_icon_padding">16dp</dimen>
+
+    <dimen name="text_charts_value">40sp</dimen>
+    <dimen name="text_charts_unit">25sp</dimen>
+    <dimen name="new_child_edit_button_margin_bottom">-70dp</dimen>
+    <dimen name="new_child_edit_button_margin_left">-60dp</dimen>
+
+    <dimen name="child_device_detail_margint_top">150dp</dimen>
+
+    <dimen name="children_list_icon_size">40dp</dimen>
+    <dimen name="children_list_image_size">60dp</dimen>
+    <dimen name="alert_textview_size">75dp</dimen>
+    <dimen name="alert_textview_margin_top">0dp</dimen>
+    <dimen name="children_list_margin_side">10dp</dimen>
+    <dimen name="toobar_bottom_icon_padding">35dp</dimen>
+    <dimen name="new_children_box_height">380dp</dimen>
+    <dimen name="children_list_item_value_margin_side">25dp</dimen>
+    <dimen name="children_list_ble_icon_padding">15dp</dimen>
+</resources>

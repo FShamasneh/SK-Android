@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="colorBlue">#1c91e4</color>
+    <color name="calendar_header">#a78d8d</color>
+    <color name="blue">#644dd9</color>
+    <color name="main_dark">#E58B50</color>
+    <color name="main_bright">#F7F6FC</color>
+    <color name="main_light">#ECEDEF</color>
+    <color name="background_light">#F9F9FE</color>
+    <color name="profile_text_color">#A9AFC2</color>
+    <color name="background_line">#D3D3D8</color>
+    <color name="colorWhiteTransparentA0">#A0FFFFFF</color>
+    <color name="colorWhiteTransparent77">#77FFFFFF</color>
+    <color name="colorWhiteTransparent50">#50FFFFFF</color>
+    <color name="colorWhiteTransparent30">#30FFFFFF</color>
+    <color name="colorRedTransparentCircle">#def10635</color>
+    <color name="colorRedTransparentBG">#9df50333</color>
+    <color name="calenderText">#9DA4B9</color>
+    <color name="black">#000000</color>
+    <color name="darkGray">#6b5d5d</color>
+    <color name="colorBlackWithOpacity">#ae2f2e2e</color>
+    <color name="colorDivider">#405b5b5b</color>
+    <color name="eyePathColor">#9fa5ba</color>
+    <color name="signUpBg">#f9f9fe</color>
+    <color name="loginBg">#f9f9fe</color>
+    <color name="pagerBg">#405b5b5b</color>
+    <color name="main"><gradient
+        android:angle="0"
+        android:endColor="#EEA749"
+        android:startColor="#F46D45"
+        android:type="linear" /></color>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ICGridLayout_Layout">
+        <attr name="columns" format="integer"/>
+        <attr name="layout_left" format="integer"/>
+        <attr name="layout_top" format="integer"/>
+        <attr name="layout_right" format="integer"/>
+        <attr name="layout_bottom" format="integer"/>
+        <attr name="layout_col_span" format="integer"/>
+        <attr name="layout_row_span" format="integer"/>
+        <attr name="layout_spacing" format="dimension"/>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,243 @@
+<resources>
+    <string name="app_name">Meng Meng</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_connect">ConnectActivity</string>
+    <string name="report">Report</string>
+    <string name="profile">Profile</string>
+    <string name="med_cards">Medical Cards</string>
+    <string name="child_profile">Child Profile</string>
+
+
+    <string name="sun">SUN</string>
+    <string name="mon">MON</string>
+    <string name="tue">TUE</string>
+    <string name="wed">WED</string>
+    <string name="thu">THU</string>
+    <string name="fri">FRI</string>
+    <string name="sat">SAT</string>
+
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+
+    <string name="jan">January</string>
+    <string name="feb">February</string>
+    <string name="mar">March</string>
+    <string name="apr">April</string>
+    <string name="mai">Mai</string>
+    <string name="jun">June</string>
+    <string name="jul">July</string>
+    <string name="aug">August</string>
+    <string name="sep">September</string>
+    <string name="oct">October</string>
+    <string name="nov">November</string>
+    <string name="dec">December</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_notifications">Notifications</string>
+
+    <string name="enter_password">Enter Your Password</string>
+    <string name="confirm_password">Confirm Your Password</string>
+
+    <string name="login_activity_title">Login To Child Profile</string>
+    <string name="login_activity_btn_login">Login</string>
+    <string name="login_activity_mid_title">Login</string>
+
+    <string name="signup_activity_title">Register A Child Profile</string>
+    <string name="signup_activity_btn_signup">Sign Up</string>
+    <string name="signup_activity_mid_title">Sign Up</string>
+
+    <string name="dashboard_activity_title">Dashboard</string>
+    <string name="registered_children_activity_title">Registered Children</string>
+    <string name="registered_devices_activity_title">Registered Devices</string>
+    <string name="reports">Reports</string>
+    <string name="sensors">Sensors</string>
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="father_phone">Father phone</string>
+    <string name="mother_phone">Mother phone</string>
+    <string name="email_address">Email address</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="gender">Gender</string>
+    <string name="blood_type">Blood Type</string>
+    <string name="relationship_to_owner">Relationship to the Owner</string>
+    <string name="contact_details">Contact Details</string>
+    <string name="general_data">General Data</string>
+    <string name="address_data">Address Data</string>
+    <string name="name">Name</string>
+    <string name="next">Next</string>
+    <string name="start_now">Start Now</string>
+    <string name="additional_address">Additional address</string>
+    <string name="devices">Devices</string>
+    <string name="device_name">Device name</string>
+    <string name="device_description">Device description</string>
+    <string name="register_new_device">Register New Device</string>
+    <string name="phone">Phone</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="clear_notifications">Clear Notifications</string>
+    <string name="clear_notifications_list">Do you want to remove all notifications?</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="unit">Unit</string>
+    <string name="value_to">To</string>
+    <string name="value_from">From</string>
+    <string name="notificatin_type">Notification Type</string>
+    <string name="set_threshold">Set Threshold</string>
+    <string name="sensor_name">Sensor Name</string>
+    <string name="threshold_assignment">Threshold Assignment</string>
+
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="upload_url">Upload URL</string>
+    <string name="default_upload_url">https://doctor-app-backend.mcs-datalabs.com/measurement</string>
+    <string name="pref_uploading">Uploading</string>
+    <string name="pref_description_uploading">switch uploading on/off</string>
+    <string name="upload_management">Upload Management</string>
+    <string name="children_list_title">Children List</string>
+    <string name="birth_date">Birth date</string>
+    <string name="assignment_device">Device Assignment</string>
+
+
+
+    <string name="menu_settings">Settings</string>
+    <string name="body_part">Body part</string>
+
+    <string-array name="dept_array">
+        <item>Vegetable</item>
+        <item>Fruits</item>
+        <item>Grocery</item>
+        <item>Electronics</item>
+        <item>Books</item>
+        <item>Language</item>
+    </string-array>
+
+
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="title_devices">SmarKo Device Scan</string>
+
+    <string name="label_data">Data:</string>
+    <string name="label_device_address">Device address:</string>
+    <string name="label_state">State:</string>
+    <string name="label_batLevel">Battery Level:</string>
+    <string name="label_batVol">Battery Voltage:</string>
+    <string name="label_batCur">Battery Current:</string>
+    <string name="label_batTemp">Battery Temperature:</string>
+    <string name="label_heartRate">Heart Rate Measurement:</string>
+    <string name="label_oximetry">SPO2 Measurement:</string>
+    <string name="label_body_temp_measurement">Body Temp Measurement:</string>
+    <string name="label_humidity_measurement">Humidity Measurement:</string>
+    <string name="label_temp_measurement">Temparature Measurement:</string>
+    <string name="label_accel_measurement">Acceleration Measurement:</string>
+    <string name="label_orientation_measurement">Orientation Measurement:</string>
+
+    <!--<string name="app_name">Concrete Page</string>-->
+    <string name="btn_start"> Start </string>
+    <string name="btn_stop"> Stop </string>
+    <string name="assignment_device_confirm">Do you want to assign this device?</string>
+    <string name="no_devices_assigned">Please select one of the following devices:</string>
+    <string name="data_chart_title">Data Chart</string>
+    <string name="alert">Alert</string>
+    <string name="battery_level">Battery Level:</string>
+    <string name="remove_device">Remove Device:</string>
+    <string name="battery_status">Battery State</string>
+    <string name="estimated_battery_life">Estimated Battery Life:</string>
+
+
+
+    <string name="title_activity_smar_ko_main">SmarKo Main</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+
+
+
+    <string name="label_body_sensor_location">Body Sensor Location:</string>
+    <string name="label_device_info">Device Information:</string>
+    <string name="label_device_name">Device Name:</string>
+    <string name="label_device_appearance">Device Appearance:</string>
+    <string name="device_location_prompt">Select the Bodypart this Device will be worn on</string>
+    <string name="dialog_device_location_title">Bodypart selection</string>
+
+</resources>
